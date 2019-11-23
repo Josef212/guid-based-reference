@@ -1,0 +1,20 @@
+{
+    "name": "CrossSceneReference.Tests.Editor",
+    "references": [
+        "GUID:10bcb0b9f2b5a7d45a01cc6ca78b3152",
+        "GUID:744ff7e22f007224da34e6a106d1d7db"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
