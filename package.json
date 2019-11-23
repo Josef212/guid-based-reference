@@ -1,0 +1,8 @@
+{
+    "name": "com.unity.guid-based-reference",
+    "displayName": "GUID based reference",
+    "description": "A component to give a Globaly Unique IDentifier (GUID) to a Game Object.",
+    "version": "1.0.0",
+    "unity": "2019.1.14",
+    "dependencies": {}
+}
