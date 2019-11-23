@@ -1,0 +1,17 @@
+{
+    "name": "CrossSceneReference.Editor",
+    "references": [
+        "GUID:10bcb0b9f2b5a7d45a01cc6ca78b3152"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
